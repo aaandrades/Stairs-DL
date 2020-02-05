@@ -1,0 +1,773 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		<!-- HPI/Default CaaS Header Footer -->
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" lang="es-es" xml:lang="es-es" dir="ltr">
+<head>
+	
+		
+			<title>Calculadoras gráficas, científicas y financieras y más calculadoras | HP® España</title>
+		
+		
+	
+      
+	<!-- BEGIN METADATA -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="content-Script-Type" content="text/javascript"/>	
+	<meta http-equiv="content-Style-Type" content="text/css"/>
+	<meta name="hp_design_version" content="hpweb.1.4"/>
+		
+	<meta content="presales.selection" name="lifecycle" />
+	
+		<meta name="bu" content="PSG" />
+	
+	
+	<meta name="target_country" content="es"/>
+	
+		<meta name="simple_title" content="Calculators - Gateway Page" />
+	
+	
+		<meta name="web_section_id" content="R2515" />
+	
+	
+		<meta name="page_content" content="Products" />
+	
+	
+		<meta name="segment" content="Segment Neutral" />
+	
+	
+		<meta name="product_service_name" content="HP Calculators" />
+	
+	
+		<meta name="lifecycle" content="presales.selection" />
+	
+	<meta name="user_type" content="any"/>
+	<meta name="robots" content="follow, index"/>
+	<meta name="allow-search" content="no"/>
+	<meta name="search_context" content="products_and_services">
+	
+		
+			<meta name="description" content="Summary of all HP Calculators currently available for purchase. Includes links to compare products, obtain more information about a specific model or product series, or view selection advice and special offers and other relevant information." />
+		
+		
+	
+	
+		
+			<meta name="keywords" content="Hewlett-Packard; hp; Hewlett; Packard; H-P; Calculator; Financial; Scientific; Graphic" />
+		
+		
+		
+	
+	<!-- END METADATA -->
+
+    <!-- BEGIN STYLES -->
+	
+		
+		
+			<link href="/es/es/images/i/hpi/header-footer/caas-hf-v3.2/hpi-favicon.ico" type="image/ico" rel="shortcut icon"/>
+			<link href="/es/es/system/styles/hps-fontface-core.css" media="screen" rel="stylesheet" type="text/css"/>
+			<link href="/es/es/system/styles/products-hpe.css" media="screen" rel="stylesheet" type="text/css"/>
+			<link href="/es/es/system/styles/products-pricing-hpe.css" media="screen" rel="stylesheet" type="text/css"/>
+			<!--[if IE]>
+			<link href="/es/es/system/styles/products-hpe-ie.css" media="screen" rel="stylesheet" type="text/css"/>
+			<![endif]-->
+			<!-- HPI/Default JS/CSS -->
+		
+	
+    <!-- END STYLES -->
+
+	<!-- BEGIN TOP JAVASCRIPT -->
+	
+		
+		
+			<script src="/es/es/scripts/globalhp-hpe.js" type="text/javascript"></script>
+			<!-- HPI/Default JS/CSS -->
+		
+	
+	<script type="text/javascript" language="JavaScript">
+		(function(){
+			var page = {
+				'languageCode' : 'es',
+				'countryCode' : 'es',
+				'baseUrl' : '/es/es/products/gateway/calculators/index.html'
+			};
+			var debug = {
+				'perfmonenabled' : '0',
+				'diagenabled' : '0'
+			};
+            HEWLETTPACKARD.addSettings('page', page);
+			HEWLETTPACKARD.addSettings('debug', debug);
+        })();
+	</script>
+	<!-- END TOP JAVASCRIPT -->
+	
+	<!-- BEGIN CaaS Resources -->
+	<meta name="hp_inav_version" content="ihfcaas.4.m"/><link rel="stylesheet" type="text/css" href="https://www8.hp.com/es/es/system/styles/hpi/hpi-fontface-core.css?v=4.0.2" media="screen, print"></link><link rel="stylesheet" type="text/css" href="https://www8.hp.com/es/es/system/styles/hpi/caas-hf-v4.0/hpi-hf.css?v=4.0.2" media="screen, print"></link><!--  HPI/Default CaaS Header Footer V4 --><!--Data Published 09/05/2019 06:46:14 PM, Template Published: UNKNOWN-->
+	<!-- BEGIN CaaS Resources -->
+
+    <link href="http://www8.hp.com/es/es/products/gateway/calculators/index.html" rel="canonical"/>
+<!-- HP Analytics Metadata Layer -->
+
+<script type="text/javascript">
+<!-- /* <![CDATA[ */
+document.write("<script type='text/javascript' src='" + (window.location.protocol=='https:'?'https://ssl.www8.hp.com/h10000/cma/ng/lib/abmvt/abmvt2.js':'http://www8.hp.com/h10000/cma/ng/lib/abmvt/abmvt2.js') + "'><" + "/scr" + "ipt>");
+if(window.hpmmd==null){
+    hpmmd={type:"HP Default Cleansheet Implementation" , page:{},product:{},user:{},promo:{},legacy:{}};
+    hpmmd.timer={ start: (new Date()).getTime(), condition: "load-head"};
+    hpmmd.page.name="Calculators - Gateway Page"
+    hpmmd.page.sectiontaxonomy="/es/es/products/gateway/calculators";
+    hpmmd.page.lifecycle="";
+    hpmmd.page.events=new Array("");
+}
+hpmmd.version='20150615A';
+document.write("<script type='text/javascript' src='"+ (window.location.protocol=='https:'?'https://ssl.www8.hp.com/h10000/cma/tms/metrics.js':'http://www8.hp.com/h10000/cma/tms/metrics.js') +"'><" + "/scr" + "ipt>");
+/* (function() {
+    if(window.location.href.indexOf('testensighten=true')!==-1) {
+        document.write("<script type='text/javascript' src='//nexus.ensighten.com/hp/hpcom_dev/Bootstrap.js'><" + "/scr" + "ipt>");
+    } else if(window.location.href.indexOf('testhpbs=true')!==-1) {
+        document.write("<script type='text/javascript' src='" + (window.location.protocol=='https:'?'':'') + "'><" + "/scr" + "ipt>");
+    } else {
+        document.write("<script type='text/javascript' src='//nexus.ensighten.com/hp/hpcom_prod/Bootstrap.js'><" + "/scr" + "ipt>");
+    }
+}()); */
+/* (function() {
+    var ref = document.getElementsByTagName('script')[0],
+        scriptNode = document.createElement('script');
+    scriptNode.type = 'text/javascript';
+    scriptNode.src = (window.location.protocol=='https:'?'':'');
+    ref.parentNode.insertBefore(scriptNode, ref);
+}()); */
+/* ]]> */
+//-->
+</script></head>
+<!-- BEGIN BODY -->
+<body>
+
+<!-- BEGIN EVERYTHING -->
+<div id="everything" class="everything">
+	<!-- BEGIN CONTENT -->
+	<div id="content">
+		
+		<!-- BEGIN HEADER -->
+		<div id="header" class="header">
+			<div class="background">&#160;</div><div class="hf_wrapper"><div class="header_container hf_clf"><div class="hp_logo"><a class="hf_logo link_metrics" name="1414644" href="https://www8.hp.com/es/es/home.html" title="HP® España | Portátiles, ordenadores, equipos de escritorio , impresoras y más" tabindex="2"><img src="https://www8.hp.com/es/es/images/i/hpi/header-footer/caas-hf-v3.2/hpi-hp-logo-pr.gif" alt="HP® España   | Portátiles, ordenadores, equipos de escritorio , impresoras y más" class="hf_printable" aria-hidden="true"/></a></div><span class="skip-links"><a class="screenReading js-skip-link" href="#skiptobody" tabindex="2">Skip to Content</a><a class="screenReading js-skip-link" href="#skiptofooter" tabindex="2">Skip to Footer</a></span><div class="hf_top_menu js_header_topmenu"><ul class="js_hf_menu  hf_menu level1"><li class="selectable  first_li H/F - Laptop menu-1"><a name="2082481" tabindex="2" class="level1-desktop icn_laptop hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f"><span>Portátiles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+2-en-1</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082481" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f">Portátiles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+2-en-1
+        </a></li><li class="js_item   "><a name="2101987" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/laptops/business-laptops-tablets.html">Empresas
+        </a></li><li class="js_item   "><a name="2082497" tabindex="-1" class="icn_premium   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=c-portatil-premium">Premium
+        </a></li><li class="js_item   "><a name="2082491" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming">Gaming
+        </a></li><li class="js_item   "><a name="2277655" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_nb=1">Portátiles
+        </a></li><li class="js_item   "><a name="2082480" tabindex="-1" class="icn_workstn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">ZBook Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+portátiles
+        </a></li><li class="js_item   "><a name="2109495" tabindex="-1" class="icn_detachables   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_deta=1&amp;fc_form_conv=1">Convertibles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+desmontables
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild  "><a name="2082496" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones">Ofertas
+        </a></li></ul></div></li><li class="selectable   H/F - Desktop menu-2"><a name="2082388" tabindex="2" class="level1-desktop icn_desktop hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f"><span>Equipos de
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082388" tabindex="-1" class="icn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f">Equipos de
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item   "><a name="2082386" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/desktops/business-desktops.html">Empresas
+        </a></li><li class="js_item   "><a name="2082396" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming-desktops">Gaming
+        </a></li><li class="js_item   "><a name="2277634" tabindex="-1" class="icn_towers   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_tower=1&amp;fc_form_mtower=1&amp;fc_form_minitower=1">Torres
+        </a></li><li class="js_item   "><a name="2082385" tabindex="-1" class="icn_workstn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">Z Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item   "><a name="2277635" tabindex="-1" class="icn_mini   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_sff=1&amp;fc_form_mini=1&amp;fc_form_uspc=1">Factor de forma
+<br xmlns="http://www.w3.org/1999/xhtml" />
+reducido
+        </a></li><li class="js_item   "><a name="2082407" tabindex="-1" class="icn_all_in_one   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_aio=1">Todo-en-uno
+        </a></li><li class="js_item lstchild  "><a name="2082401" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones-hp">Ofertas
+        </a></li></ul></div></li><li class="selectable   H/F - Printer menu-3"><a name="2082508" tabindex="2" class="level1-desktop icn_printer hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN&amp;ctrl=f"><span>Impresoras</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082508" tabindex="-1" class="icn_printer   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN&amp;ctrl=f">Impresoras
+        </a></li><li class="js_item   "><a name="2082527" tabindex="-1" class="icn_home_office   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/consumer-printers.html">Vida digital y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+oficina en casa
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2100716" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/business-printers.html">Empresas
+        </a></li><li class="js_item   "><a name="2518206" tabindex="-1" class="icn_sprocket   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/sprocket.html">Sprocket
+        </a></li><li class="js_item   "><a name="2277681" tabindex="-1" class="icn_print_only   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN">Single y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+multifunción
+        </a></li><li class="js_item   "><a name="2082522" tabindex="-1" class="icn_scanner   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/scanners.html">Esc&#225;neres
+        </a></li><li class="js_item   "><a name="2082513" tabindex="-1" class="icn_large_format   no_flyout link_metrics" href="https://www8.hp.com/es/es/commercial-printers/graphic-arts.html">Todas las prensas digitales y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de gran formato
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild  "><a name="2358491" tabindex="-1" class="icn_3d_scan   no_flyout link_metrics" href="https://www8.hp.com/es/es/campaign/3Dscanner/overview.html">3D Scan
+        </a></li></ul></div></li><li class="empty   H/F - 3D Print menu-4"><a name="2244510" tabindex="2" class="level1-desktop icn_3d_printing hasLink header_link no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/3d-printers.html"><span>Impresi&#243;n 3D</span><span class="pointer">&#160;</span></a></li><li class="selectable   H/F - Ink Toner menu-5"><a name="2082545" tabindex="0" class="level1-desktop icn_ink_toner hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/Ink-Toner-Paper.aspx"><span>Tinta y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+tóner</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082545" tabindex="-1" class="icn_ink_toner   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Ink-Toner-Paper.aspx">Tinta y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+tóner
+        </a></li><li class="js_item  imgItem "><a name="2931058" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/ink.html"><img src="https://www8.hp.com/es/es/images/Tink-default-gray_Ctcm1762931057_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Tink-hover-blue_Ctcm1762931056_Ttcm176138591332_F.png" alt="emptyImg"/>Tinta
+        </a></li><li class="js_item lstchild imgItem "><a name="2931059" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/toner.html"><img src="https://www8.hp.com/es/es/images/Ttoner-default-gray_Ctcm1762931055_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Ttoner-hover-blue_Ctcm1762931054_Ttcm176138591332_F.png" alt="emptyImg"/>T&#243;ner
+        </a></li></ul></div></li><li class="selectable   H/F - Monitor menu-6"><a name="2101621" tabindex="2" class="level1-desktop icn_monitor hasLink header_link  link_metrics" href="javascript:void(0);"><span>Pantallas y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+accesorios</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2101615" tabindex="-1" class="icn_monitor   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=MTO">Pantallas
+        </a></li><li class="js_item lstchild  "><a name="2101616" tabindex="-1" class="icn_keyboard_mice   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=ACC&amp;ctrl=f">Accesorios
+        </a></li></ul></div></li><li class="selectable second-last  H/F - Business menu-7"><a name="2082864" tabindex="2" class="level1-desktop icn_business hasLink header_link  link_metrics" href="http://www8.hp.com/es/es/solutions/business-solutions.html"><span>Soluciones
+<br xmlns="http://www.w3.org/1999/xhtml" />
+empresariales</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082864" tabindex="-1" class="icn_business   no_flyout link_metrics" href="http://www8.hp.com/es/es/solutions/business-solutions.html">Soluciones
+<br xmlns="http://www.w3.org/1999/xhtml" />
+empresariales
+        </a></li><li class="js_item   "><a name="2082879" tabindex="-1" class="icn_security   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/security.html">Seguridad
+        </a></li><li class="js_item   "><a name="2082469" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/printingsolutions/overview.html">Software
+        </a></li><li class="js_item lstchild  "><a name="2082465" tabindex="-1" class="icn_services   no_flyout link_metrics" href="https://www8.hp.com/es/es/services/overview.html">Servicios
+        </a></li></ul></div></li><li class="selectable  lstchild H/F - Support menu-8"><a name="2082882" tabindex="2" class="level1-desktop icn_support hasLink header_link  link_metrics" href="javascript:void(0);"><span>Soporte</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082892" tabindex="-1" class="icn_support   no_flyout link_metrics" href="https://support.hp.com/es-es/">Soporte y resolución
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de problemas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2082889" tabindex="-1" class="icn_products   no_flyout link_metrics" href="https://support.hp.com/es-es/products/">Productos
+        </a></li><li class="js_item   "><a name="2082891" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://support.hp.com/es-es/drivers">Software y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+controladores
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2082885" tabindex="-1" class="icn_forums   no_flyout link_metrics" href="https://h30467.www3.hp.com/">Comunidad
+        </a></li><li class="js_item   "><a name="2278001" target="_blank" tabindex="-1" class="icn_extended_warranty   no_flyout link_metrics" href="https://www.best2serve.com/es-es/page/wex_landing?utm_source=hp.com&amp;utm_medium=referral&amp;utm_campaign=wex_customer-care&amp;utm_content=navigation-support-hp-care">HP Care
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2506546" tabindex="-1" class="icn_parts   no_flyout link_metrics" href="https://parts.hp.com/hpparts/default.aspx?cc=ES&amp;lang=ES">Tienda de piezas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de recambio
+        </a></li><li class="js_item lstchild  "><a name="2634783" tabindex="-1" class="icn_contact   no_flyout link_metrics" href="https://support.hp.com/es-es/contact-hp">Contactar con
+<br xmlns="http://www.w3.org/1999/xhtml" />
+soporte
+        </a></li></ul></div></li></ul></div><div class="submenu"><ul class="js_hf_menu submenu-1 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082481" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f">Portátiles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+2-en-1
+        </a></li><li class="js_item    "><a name="2101987" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/laptops/business-laptops-tablets.html">Empresas
+        </a></li><li class="js_item    "><a name="2082497" tabindex="-1" class="icn_premium   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=c-portatil-premium">Premium
+        </a></li><li class="js_item    "><a name="2082491" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming">Gaming
+        </a></li><li class="js_item    "><a name="2277655" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_nb=1">Portátiles
+        </a></li><li class="js_item    "><a name="2082480" tabindex="-1" class="icn_workstn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">ZBook Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+portátiles
+        </a></li><li class="js_item    "><a name="2109495" tabindex="-1" class="icn_detachables   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_deta=1&amp;fc_form_conv=1">Convertibles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+desmontables
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild   "><a name="2082496" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones">Ofertas
+        </a></li></ul><ul class="js_hf_menu submenu-2 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082388" tabindex="-1" class="icn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f">Equipos de
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item    "><a name="2082386" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/desktops/business-desktops.html">Empresas
+        </a></li><li class="js_item    "><a name="2082396" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming-desktops">Gaming
+        </a></li><li class="js_item    "><a name="2277634" tabindex="-1" class="icn_towers   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_tower=1&amp;fc_form_mtower=1&amp;fc_form_minitower=1">Torres
+        </a></li><li class="js_item    "><a name="2082385" tabindex="-1" class="icn_workstn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">Z Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item    "><a name="2277635" tabindex="-1" class="icn_mini   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_sff=1&amp;fc_form_mini=1&amp;fc_form_uspc=1">Factor de forma
+<br xmlns="http://www.w3.org/1999/xhtml" />
+reducido
+        </a></li><li class="js_item    "><a name="2082407" tabindex="-1" class="icn_all_in_one   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_aio=1">Todo-en-uno
+        </a></li><li class="js_item lstchild   "><a name="2082401" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones-hp">Ofertas
+        </a></li></ul><ul class="js_hf_menu submenu-3 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082508" tabindex="-1" class="icn_printer   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN&amp;ctrl=f">Impresoras
+        </a></li><li class="js_item    "><a name="2082527" tabindex="-1" class="icn_home_office   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/consumer-printers.html">Vida digital y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+oficina en casa
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2100716" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/business-printers.html">Empresas
+        </a></li><li class="js_item    "><a name="2518206" tabindex="-1" class="icn_sprocket   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/sprocket.html">Sprocket
+        </a></li><li class="js_item    "><a name="2277681" tabindex="-1" class="icn_print_only   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN">Single y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+multifunción
+        </a></li><li class="js_item    "><a name="2082522" tabindex="-1" class="icn_scanner   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/scanners.html">Esc&#225;neres
+        </a></li><li class="js_item    "><a name="2082513" tabindex="-1" class="icn_large_format   no_flyout link_metrics" href="https://www8.hp.com/es/es/commercial-printers/graphic-arts.html">Todas las prensas digitales y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de gran formato
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild   "><a name="2358491" tabindex="-1" class="icn_3d_scan   no_flyout link_metrics" href="https://www8.hp.com/es/es/campaign/3Dscanner/overview.html">3D Scan
+        </a></li></ul><ul class="js_hf_menu submenu-5 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082545" tabindex="-1" class="icn_ink_toner   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Ink-Toner-Paper.aspx">Tinta y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+tóner
+        </a></li><li class="js_item  imgItem  "><a name="2931058" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/ink.html"><img src="https://www8.hp.com/es/es/images/Tink-default-gray_Ctcm1762931057_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Tink-hover-blue_Ctcm1762931056_Ttcm176138591332_F.png" alt="emptyImg"/>Tinta
+        </a></li><li class="js_item lstchild imgItem  "><a name="2931059" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/toner.html"><img src="https://www8.hp.com/es/es/images/Ttoner-default-gray_Ctcm1762931055_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Ttoner-hover-blue_Ctcm1762931054_Ttcm176138591332_F.png" alt="emptyImg"/>T&#243;ner
+        </a></li></ul><ul class="js_hf_menu submenu-6 hf_menu level hasLink"><li class="js_item   first_li "><a name="2101615" tabindex="-1" class="icn_monitor   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=MTO">Pantallas
+        </a></li><li class="js_item lstchild   "><a name="2101616" tabindex="-1" class="icn_keyboard_mice   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=ACC&amp;ctrl=f">Accesorios
+        </a></li></ul><ul class="js_hf_menu submenu-7 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082864" tabindex="-1" class="icn_business   no_flyout link_metrics" href="http://www8.hp.com/es/es/solutions/business-solutions.html">Soluciones
+<br xmlns="http://www.w3.org/1999/xhtml" />
+empresariales
+        </a></li><li class="js_item    "><a name="2082879" tabindex="-1" class="icn_security   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/security.html">Seguridad
+        </a></li><li class="js_item    "><a name="2082469" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/printingsolutions/overview.html">Software
+        </a></li><li class="js_item lstchild   "><a name="2082465" tabindex="-1" class="icn_services   no_flyout link_metrics" href="https://www8.hp.com/es/es/services/overview.html">Servicios
+        </a></li></ul><ul class="js_hf_menu submenu-8 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082892" tabindex="-1" class="icn_support   no_flyout link_metrics" href="https://support.hp.com/es-es/">Soporte y resolución
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de problemas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2082889" tabindex="-1" class="icn_products   no_flyout link_metrics" href="https://support.hp.com/es-es/products/">Productos
+        </a></li><li class="js_item    "><a name="2082891" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://support.hp.com/es-es/drivers">Software y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+controladores
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2082885" tabindex="-1" class="icn_forums   no_flyout link_metrics" href="https://h30467.www3.hp.com/">Comunidad
+        </a></li><li class="js_item    "><a name="2278001" target="_blank" tabindex="-1" class="icn_extended_warranty   no_flyout link_metrics" href="https://www.best2serve.com/es-es/page/wex_landing?utm_source=hp.com&amp;utm_medium=referral&amp;utm_campaign=wex_customer-care&amp;utm_content=navigation-support-hp-care">HP Care
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2506546" tabindex="-1" class="icn_parts   no_flyout link_metrics" href="https://parts.hp.com/hpparts/default.aspx?cc=ES&amp;lang=ES">Tienda de piezas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de recambio
+        </a></li><li class="js_item lstchild   "><a name="2634783" tabindex="-1" class="icn_contact   no_flyout link_metrics" href="https://support.hp.com/es-es/contact-hp">Contactar con
+<br xmlns="http://www.w3.org/1999/xhtml" />
+soporte
+        </a></li></ul></div><div id="widget_menu" class="hdr_widgets "><div class="search_block  js_search search_hp"><form name="searchHP" id="searchHP" action="https://www8.hp.com/es/es/search/search-results.html" method="get"><input type="hidden" name="client" value=""/><input type="hidden" name="jumpID" value="" disabled="disabled"/><div class="search_container"><div class="search_mob_container hf_clf placeholder_wrapper"><input class="searchBox" id="searchBox" name="qt" title="Escriba aquí los criterios de búsqueda para encontrar contenidos en HP.es" placeholder="Buscar" type="search" size="23" maxlength="100" tabindex="2" autocomplete="off"/><a href="javascript:void(0);" title="Borrar" class="searchClear" tabindex="2"><span class="screenReading hf_rlv">Borrar casilla de búsqueda</span></a><button class="searchSubmit" name="search" title="Iniciar la búsqueda" type="submit" tabindex="2" disabled="true">&#160;</button></div></div><span class="defaultTxt hidden">Buscar</span><span class="js_metricId hidden">1676317</span><input type="hidden" name="charset" value="utf-8"/></form></div><div class="hdr_buttons"><ul class="nav_buttons js_nav_buttons" id="nav_buttons"><li class="js_search_widget nav_button search_widget"><span class="top_corner">&#160;</span><a id="search_widget" class="js_search_trigger search_icon" href="javascript:void(0);" title="Buscar" tabindex="2"><span class="screenReading js_screen_reading">&#160;</span></a></li><li class="js_shopping_widget nav_button shopping_widget"><a name="2287273" id="shop_widget" class="link_metrics js_shopping_trigger shopping_icon" href="https://store.hp.com/SpainStore/Merch/Cart.aspx" title="Cesta de compra" tabindex="2" data-href="" data-lang="es-es"><span class="screenReading js_screen_reading">&#160;</span></a><span class="item_count">&#160;</span><div class="js_shopping_target shop_widget"><div class="top_corner">&#160;</div><div class="left_corner">&#160;</div><div id="sw_spooler" class="js_spooler wait_class " rel=""><div>&#160;</div></div><div class="shopping_container"><div class="shadow_cover_top">&#160;</div><a href="javascript:void(0);" title="Sluiten" class="hf_close_btn"><span class="screenReading">Close Shopping Cart popup</span></a><div class="widget_content">&#160;</div><div class="shadow_cover_bottom">&#160;</div></div></div></li><li class="js_top_menu_widget nav_button top_menu_widget"><a class="js_top_menu_trigger top_m_widget hf-close" href="javascript:void(0);" tabindex="4" title=""><span class="screenReading js_screen_reading">&#160;</span><span class="bar1">&#160;</span><span class="bar2">&#160;</span><span class="bar3">&#160;</span></a><div class="js_top_menu_target top_menu_widget_accordion "><div class="hf_top_menu "><ul class="js_hf_menu  hf_menu level1"><li class="selectable  first_li H/F - Laptop menu-1"><a name="2082481" tabindex="4" class="level1-desktop icn_laptop hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f"><span>Portátiles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+2-en-1</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082481" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f">Portátiles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+2-en-1
+        </a></li><li class="js_item   "><a name="2101987" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/laptops/business-laptops-tablets.html">Empresas
+        </a></li><li class="js_item   "><a name="2082497" tabindex="-1" class="icn_premium   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=c-portatil-premium">Premium
+        </a></li><li class="js_item   "><a name="2082491" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming">Gaming
+        </a></li><li class="js_item   "><a name="2277655" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_nb=1">Portátiles
+        </a></li><li class="js_item   "><a name="2082480" tabindex="-1" class="icn_workstn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">ZBook Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+portátiles
+        </a></li><li class="js_item   "><a name="2109495" tabindex="-1" class="icn_detachables   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_deta=1&amp;fc_form_conv=1">Convertibles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+desmontables
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild  "><a name="2082496" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones">Ofertas
+        </a></li></ul></div></li><li class="selectable   H/F - Desktop menu-2"><a name="2082388" tabindex="4" class="level1-desktop icn_desktop hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f"><span>Equipos de
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082388" tabindex="-1" class="icn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f">Equipos de
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item   "><a name="2082386" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/desktops/business-desktops.html">Empresas
+        </a></li><li class="js_item   "><a name="2082396" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming-desktops">Gaming
+        </a></li><li class="js_item   "><a name="2277634" tabindex="-1" class="icn_towers   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_tower=1&amp;fc_form_mtower=1&amp;fc_form_minitower=1">Torres
+        </a></li><li class="js_item   "><a name="2082385" tabindex="-1" class="icn_workstn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">Z Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item   "><a name="2277635" tabindex="-1" class="icn_mini   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_sff=1&amp;fc_form_mini=1&amp;fc_form_uspc=1">Factor de forma
+<br xmlns="http://www.w3.org/1999/xhtml" />
+reducido
+        </a></li><li class="js_item   "><a name="2082407" tabindex="-1" class="icn_all_in_one   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_aio=1">Todo-en-uno
+        </a></li><li class="js_item lstchild  "><a name="2082401" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones-hp">Ofertas
+        </a></li></ul></div></li><li class="selectable   H/F - Printer menu-3"><a name="2082508" tabindex="4" class="level1-desktop icn_printer hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN&amp;ctrl=f"><span>Impresoras</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082508" tabindex="-1" class="icn_printer   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN&amp;ctrl=f">Impresoras
+        </a></li><li class="js_item   "><a name="2082527" tabindex="-1" class="icn_home_office   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/consumer-printers.html">Vida digital y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+oficina en casa
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2100716" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/business-printers.html">Empresas
+        </a></li><li class="js_item   "><a name="2518206" tabindex="-1" class="icn_sprocket   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/sprocket.html">Sprocket
+        </a></li><li class="js_item   "><a name="2277681" tabindex="-1" class="icn_print_only   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN">Single y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+multifunción
+        </a></li><li class="js_item   "><a name="2082522" tabindex="-1" class="icn_scanner   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/scanners.html">Esc&#225;neres
+        </a></li><li class="js_item   "><a name="2082513" tabindex="-1" class="icn_large_format   no_flyout link_metrics" href="https://www8.hp.com/es/es/commercial-printers/graphic-arts.html">Todas las prensas digitales y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de gran formato
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild  "><a name="2358491" tabindex="-1" class="icn_3d_scan   no_flyout link_metrics" href="https://www8.hp.com/es/es/campaign/3Dscanner/overview.html">3D Scan
+        </a></li></ul></div></li><li class="empty   H/F - 3D Print menu-4"><a name="2244510" tabindex="4" class="level1-desktop icn_3d_printing hasLink header_link no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/3d-printers.html"><span>Impresi&#243;n 3D</span><span class="pointer">&#160;</span></a></li><li class="selectable   H/F - Ink Toner menu-5"><a name="2082545" tabindex="2" class="level1-desktop icn_ink_toner hasLink header_link  link_metrics" href="https://store.hp.com/SpainStore/Merch/Ink-Toner-Paper.aspx"><span>Tinta y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+tóner</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082545" tabindex="-1" class="icn_ink_toner   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Ink-Toner-Paper.aspx">Tinta y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+tóner
+        </a></li><li class="js_item  imgItem "><a name="2931058" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/ink.html"><img src="https://www8.hp.com/es/es/images/Tink-default-gray_Ctcm1762931057_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Tink-hover-blue_Ctcm1762931056_Ttcm176138591332_F.png" alt="emptyImg"/>Tinta
+        </a></li><li class="js_item lstchild imgItem "><a name="2931059" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/toner.html"><img src="https://www8.hp.com/es/es/images/Ttoner-default-gray_Ctcm1762931055_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Ttoner-hover-blue_Ctcm1762931054_Ttcm176138591332_F.png" alt="emptyImg"/>T&#243;ner
+        </a></li></ul></div></li><li class="selectable   H/F - Monitor menu-6"><a name="2101621" tabindex="4" class="level1-desktop icn_monitor hasLink header_link  link_metrics" href="javascript:void(0);"><span>Pantallas y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+accesorios</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2101615" tabindex="-1" class="icn_monitor   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=MTO">Pantallas
+        </a></li><li class="js_item lstchild  "><a name="2101616" tabindex="-1" class="icn_keyboard_mice   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=ACC&amp;ctrl=f">Accesorios
+        </a></li></ul></div></li><li class="selectable second-last  H/F - Business menu-7"><a name="2082864" tabindex="4" class="level1-desktop icn_business hasLink header_link  link_metrics" href="http://www8.hp.com/es/es/solutions/business-solutions.html"><span>Soluciones
+<br xmlns="http://www.w3.org/1999/xhtml" />
+empresariales</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082864" tabindex="-1" class="icn_business   no_flyout link_metrics" href="http://www8.hp.com/es/es/solutions/business-solutions.html">Soluciones
+<br xmlns="http://www.w3.org/1999/xhtml" />
+empresariales
+        </a></li><li class="js_item   "><a name="2082879" tabindex="-1" class="icn_security   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/security.html">Seguridad
+        </a></li><li class="js_item   "><a name="2082469" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/printingsolutions/overview.html">Software
+        </a></li><li class="js_item lstchild  "><a name="2082465" tabindex="-1" class="icn_services   no_flyout link_metrics" href="https://www8.hp.com/es/es/services/overview.html">Servicios
+        </a></li></ul></div></li><li class="selectable  lstchild H/F - Support menu-8"><a name="2082882" tabindex="4" class="level1-desktop icn_support hasLink header_link  link_metrics" href="javascript:void(0);"><span>Soporte</span><span class="screenReading js_screen_reading">&#160;</span><span class="pointer">&#160;</span></a><div class="js_hf_menu hf_menu level2 hasLink"><ul><li class="js_item   "><a name="2082892" tabindex="-1" class="icn_support   no_flyout link_metrics" href="https://support.hp.com/es-es/">Soporte y resolución
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de problemas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2082889" tabindex="-1" class="icn_products   no_flyout link_metrics" href="https://support.hp.com/es-es/products/">Productos
+        </a></li><li class="js_item   "><a name="2082891" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://support.hp.com/es-es/drivers">Software y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+controladores
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2082885" tabindex="-1" class="icn_forums   no_flyout link_metrics" href="https://h30467.www3.hp.com/">Comunidad
+        </a></li><li class="js_item   "><a name="2278001" target="_blank" tabindex="-1" class="icn_extended_warranty   no_flyout link_metrics" href="https://www.best2serve.com/es-es/page/wex_landing?utm_source=hp.com&amp;utm_medium=referral&amp;utm_campaign=wex_customer-care&amp;utm_content=navigation-support-hp-care">HP Care
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item   "><a name="2506546" tabindex="-1" class="icn_parts   no_flyout link_metrics" href="https://parts.hp.com/hpparts/default.aspx?cc=ES&amp;lang=ES">Tienda de piezas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de recambio
+        </a></li><li class="js_item lstchild  "><a name="2634783" tabindex="-1" class="icn_contact   no_flyout link_metrics" href="https://support.hp.com/es-es/contact-hp">Contactar con
+<br xmlns="http://www.w3.org/1999/xhtml" />
+soporte
+        </a></li></ul></div></li></ul></div><div class="submenu"><ul class="js_hf_menu submenu-1 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082481" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f">Portátiles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+2-en-1
+        </a></li><li class="js_item    "><a name="2101987" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/laptops/business-laptops-tablets.html">Empresas
+        </a></li><li class="js_item    "><a name="2082497" tabindex="-1" class="icn_premium   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=c-portatil-premium">Premium
+        </a></li><li class="js_item    "><a name="2082491" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming">Gaming
+        </a></li><li class="js_item    "><a name="2277655" tabindex="-1" class="icn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_nb=1">Portátiles
+        </a></li><li class="js_item    "><a name="2082480" tabindex="-1" class="icn_workstn_laptop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">ZBook Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+portátiles
+        </a></li><li class="js_item    "><a name="2109495" tabindex="-1" class="icn_detachables   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=NTB&amp;ctrl=f&amp;fc_form_deta=1&amp;fc_form_conv=1">Convertibles y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+desmontables
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild   "><a name="2082496" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones">Ofertas
+        </a></li></ul><ul class="js_hf_menu submenu-2 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082388" tabindex="-1" class="icn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f">Equipos de
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item    "><a name="2082386" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/desktops/business-desktops.html">Empresas
+        </a></li><li class="js_item    "><a name="2082396" tabindex="-1" class="icn_gaming   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=hp-gaming-desktops">Gaming
+        </a></li><li class="js_item    "><a name="2277634" tabindex="-1" class="icn_towers   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_tower=1&amp;fc_form_mtower=1&amp;fc_form_minitower=1">Torres
+        </a></li><li class="js_item    "><a name="2082385" tabindex="-1" class="icn_workstn_desktop   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Offer.aspx?p=b-workstations">Z Workstations
+<br xmlns="http://www.w3.org/1999/xhtml" />
+sobremesa
+        </a></li><li class="js_item    "><a name="2277635" tabindex="-1" class="icn_mini   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_sff=1&amp;fc_form_mini=1&amp;fc_form_uspc=1">Factor de forma
+<br xmlns="http://www.w3.org/1999/xhtml" />
+reducido
+        </a></li><li class="js_item    "><a name="2082407" tabindex="-1" class="icn_all_in_one   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=DTP&amp;ctrl=f&amp;fc_form_aio=1">Todo-en-uno
+        </a></li><li class="js_item lstchild   "><a name="2082401" tabindex="-1" class="icn_great_deal   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/offer.aspx?p=ofertas-y-promociones-hp">Ofertas
+        </a></li></ul><ul class="js_hf_menu submenu-3 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082508" tabindex="-1" class="icn_printer   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN&amp;ctrl=f">Impresoras
+        </a></li><li class="js_item    "><a name="2082527" tabindex="-1" class="icn_home_office   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/consumer-printers.html">Vida digital y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+oficina en casa
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2100716" tabindex="-1" class="icn_business   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/business-printers.html">Empresas
+        </a></li><li class="js_item    "><a name="2518206" tabindex="-1" class="icn_sprocket   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/sprocket.html">Sprocket
+        </a></li><li class="js_item    "><a name="2277681" tabindex="-1" class="icn_print_only   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=PRN">Single y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+multifunción
+        </a></li><li class="js_item    "><a name="2082522" tabindex="-1" class="icn_scanner   no_flyout link_metrics" href="https://www8.hp.com/es/es/printers/scanners.html">Esc&#225;neres
+        </a></li><li class="js_item    "><a name="2082513" tabindex="-1" class="icn_large_format   no_flyout link_metrics" href="https://www8.hp.com/es/es/commercial-printers/graphic-arts.html">Todas las prensas digitales y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de gran formato
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item lstchild   "><a name="2358491" tabindex="-1" class="icn_3d_scan   no_flyout link_metrics" href="https://www8.hp.com/es/es/campaign/3Dscanner/overview.html">3D Scan
+        </a></li></ul><ul class="js_hf_menu submenu-5 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082545" tabindex="-1" class="icn_ink_toner   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/Ink-Toner-Paper.aspx">Tinta y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+tóner
+        </a></li><li class="js_item  imgItem  "><a name="2931058" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/ink.html"><img src="https://www8.hp.com/es/es/images/Tink-default-gray_Ctcm1762931057_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Tink-hover-blue_Ctcm1762931056_Ttcm176138591332_F.png" alt="emptyImg"/>Tinta
+        </a></li><li class="js_item lstchild imgItem  "><a name="2931059" tabindex="-1" class="imgLink  no_flyout link_metrics" href="https://www8.hp.com/es/es/cartridge/toner.html"><img src="https://www8.hp.com/es/es/images/Ttoner-default-gray_Ctcm1762931055_Ttcm176138591332_F.png" alt="emptyImg"/><img src="https://www8.hp.com/es/es/images/Ttoner-hover-blue_Ctcm1762931054_Ttcm176138591332_F.png" alt="emptyImg"/>T&#243;ner
+        </a></li></ul><ul class="js_hf_menu submenu-6 hf_menu level hasLink"><li class="js_item   first_li "><a name="2101615" tabindex="-1" class="icn_monitor   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=MTO">Pantallas
+        </a></li><li class="js_item lstchild   "><a name="2101616" tabindex="-1" class="icn_keyboard_mice   no_flyout link_metrics" href="https://store.hp.com/SpainStore/Merch/List.aspx?sel=ACC&amp;ctrl=f">Accesorios
+        </a></li></ul><ul class="js_hf_menu submenu-7 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082864" tabindex="-1" class="icn_business   no_flyout link_metrics" href="http://www8.hp.com/es/es/solutions/business-solutions.html">Soluciones
+<br xmlns="http://www.w3.org/1999/xhtml" />
+empresariales
+        </a></li><li class="js_item    "><a name="2082879" tabindex="-1" class="icn_security   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/security.html">Seguridad
+        </a></li><li class="js_item    "><a name="2082469" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://www8.hp.com/es/es/solutions/business-solutions/printingsolutions/overview.html">Software
+        </a></li><li class="js_item lstchild   "><a name="2082465" tabindex="-1" class="icn_services   no_flyout link_metrics" href="https://www8.hp.com/es/es/services/overview.html">Servicios
+        </a></li></ul><ul class="js_hf_menu submenu-8 hf_menu level hasLink"><li class="js_item   first_li "><a name="2082892" tabindex="-1" class="icn_support   no_flyout link_metrics" href="https://support.hp.com/es-es/">Soporte y resolución
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de problemas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2082889" tabindex="-1" class="icn_products   no_flyout link_metrics" href="https://support.hp.com/es-es/products/">Productos
+        </a></li><li class="js_item    "><a name="2082891" tabindex="-1" class="icn_software   no_flyout link_metrics" href="https://support.hp.com/es-es/drivers">Software y
+<br xmlns="http://www.w3.org/1999/xhtml" />
+controladores
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2082885" tabindex="-1" class="icn_forums   no_flyout link_metrics" href="https://h30467.www3.hp.com/">Comunidad
+        </a></li><li class="js_item    "><a name="2278001" target="_blank" tabindex="-1" class="icn_extended_warranty   no_flyout link_metrics" href="https://www.best2serve.com/es-es/page/wex_landing?utm_source=hp.com&amp;utm_medium=referral&amp;utm_campaign=wex_customer-care&amp;utm_content=navigation-support-hp-care">HP Care
+<br xmlns="http://www.w3.org/1999/xhtml" />
+        </a></li><li class="js_item    "><a name="2506546" tabindex="-1" class="icn_parts   no_flyout link_metrics" href="https://parts.hp.com/hpparts/default.aspx?cc=ES&amp;lang=ES">Tienda de piezas
+<br xmlns="http://www.w3.org/1999/xhtml" />
+de recambio
+        </a></li><li class="js_item lstchild   "><a name="2634783" tabindex="-1" class="icn_contact   no_flyout link_metrics" href="https://support.hp.com/es-es/contact-hp">Contactar con
+<br xmlns="http://www.w3.org/1999/xhtml" />
+soporte
+        </a></li></ul></div></div></li></ul></div></div></div><div class="submenu-category swiper">&#160;</div></div><a name="skiptobody" tabindex="-1"><span class="screenReading">Inicio contenido</span></a><!--Data Published 01/01/2020 03:34:15 PM, Template Published: UNKNOWN-->
+		</div>
+		<!-- END HEADER -->
+
+		<!-- BEGIN DIV BODY -->
+		<div id="body" class="body">
+			<!-- BEGIN CONTENT AREA -->
+			<div class="page gateway_page">
+				<div class="body-row ">
+  <div class="row-content clf ">
+    <div class="size_100 first left ">
+      <div class="ban_txt">
+        <h1>Calculadoras HP</h1>
+        <h2>El rendimiento nunca pasa de moda</h2><br><h3><a href="http://www.hp.com/go/voyager">Celebración de dos clásicos</a></h3>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="body-row title-row">
+  <div class="row-content clf">
+    <h1>
+    </h1>
+  </div>
+</div>
+<div class="body-row mda-row">
+  <div class="row-content clf">
+    <div class="mda"></div>
+  </div>
+</div>
+<div class="body-row ">
+  <div class="row-content clf ">
+    <div class="size_67 first left ">Encuentre su calculadora de HP</div>
+    <div class="size_33 last left "><a href="/es/es/products/calculators/index.html" title="Ver todos">Ver todos</a></div>
+  </div>
+</div>
+<div class="body-row ">
+  <div class="row-content clf ">
+    <table>
+      <tr>
+        <td class="first"><img class="png" src="/es/es/images/T-Tile_A1_-_Image_-_Financial_Calculators--C-tcm176-1362935.png"></td>
+        <td class=""><img class="png" src="/es/es/images/T-Tile_A2_-_Image_-_Graphing_Calculators--C-tcm176-1362936.png"></td>
+        <td class=""><img class="png" src="/es/es/images/T-Tile_A3_-_Image_-_Scientific_Calculators--C-tcm176-1362937.png"></td>
+        <td class="last"><img class="png" src="/es/es/images/T-Tile_A4_-_Image_-_Convenience_Calculators--C-tcm176-1362938.png"></td>
+      </tr>
+      <tr>
+        <td class="first"><span class="title"><a href="/es/es/products/calculators/index.html?facet=Financial" title="Calculadoras financieras">Calculadoras financieras</a></span></td>
+        <td class=""><span class="title"><a href="/es/es/products/calculators/index.html?facet=Graphing" title="Calculadoras gráficas">Calculadoras gráficas</a></span></td>
+        <td class=""><span class="title"><a href="/es/es/products/calculators/index.html?facet=Scientific" title="Calculadoras científicas ">Calculadoras científicas </a></span></td>
+        <td class="last"><span class="title"><a href="/es/es/products/calculators/index.html?facet=Convenience" title="Calculadoras prácticas">Calculadoras prácticas</a></span></td>
+      </tr>
+      <tr>
+        <td class="first"></td>
+        <td class=""></td>
+        <td class=""></td>
+        <td class="last"></td>
+      </tr>
+      <tr>
+        <td class="first">Depende de la falta de precisión, la durabilidad y la complejidad de una calculadora financiera de HP</td>
+        <td class="">Diseñada por ingenieros para ingenieros, una calculadora gráfica de HP ofrece durabilidad, portabilidad y funcionalidad</td>
+        <td class="">Una calculadora científica de HP lo ofrece todo, desde herramientas para solucionar problemas con facilidad hasta programabilidad avanzada</td>
+        <td class="last">Una calculadora práctica de HP ofrece soluciones sencillas y precisas para el uso doméstico y de oficina</td>
+      </tr>
+      <tr>
+        <td class="first"></td>
+        <td class=""></td>
+        <td class=""></td>
+        <td class="last"></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div class="body-row ">
+  <div class="row-content clf ">
+    <table>
+      <tr>
+        <td class="first"><img class="png" src="/es/es/images/T-PROMO_IMAGE_-_Training_Resources_1--C-tcm176-1407698.png"></td>
+        <td class=""><img class="png" src="/es/es/images/T-PROMO_IMAGE_-_Education_Resources_1--C-tcm176-1407699.png"></td>
+        <td class="last"><img class="png" src="/es/es/images/T-PROMO_IMAGE_-_Professional_Resources_1--C-tcm176-1407700.png"></td>
+      </tr>
+      <tr>
+        <td class="first"><span class="title"><a href="http://h20331.www2.hp.com/hpsub/cache/580339-0-0-225-121.html">Recursos de formación</a> (EE.UU.)</span></td>
+        <td class=""><span class="title">
+        <a href="https://h41268.www4.hp.com/live/index.aspx?qid=10740">Recursos educativos</a> (EE.UU.)</span></td>
+        <td class="last"><span class="title"><a href="http://h20331.www2.hp.com/Hpsub/cache/301071-0-0-225-121.html">Recursos profesionales</a> (EE.UU.)</span></td>
+      </tr>
+      <tr>
+        <td class="first"></td>
+        <td class=""></td>
+        <td class="last"></td>
+      </tr>
+      <tr>
+        <td class="first">Obtenga tutoriales interactivos para las funciones básicas de la calculadora, así como otros recursos útiles</td>
+        <td class="">Obtenga calculadoras virtuales gratuitas (solo para educadores), planes de lecciones, aplicaciones para descargar y otros recursos educativos</td>
+        <td class="last">Encuentre enlaces a herramientas profesionales y materiales para la preparación de exámenes, así como otros recursos útiles</td>
+      </tr>
+      <tr>
+        <td class="first"></td>
+        <td class=""></td>
+        <td class="last"></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div class="body-row ">
+  <div class="row-content clf ">
+    <table>
+      <tr>
+        <td class="first"><img class="png" src="/es/es/images/T-PROMO_IMAGE_-_Virtual_Resources_1--C-tcm176-1407708.png"></td>
+        <td class="last"><img class="png" src="/es/es/images/T-EMEA_PROMO_IMAGE_-_39gII_1--C-tcm176-1412432.png"></td>
+      </tr>
+      <tr>
+        <td class="first"><span class="title">Recursos virtuales</span></td>
+        <td class="last"><span class="title">
+        <a href="http://www8.hp.com/es/es/products/calculators/product-detail.html?oid=5154837">39gII Formación y Actividades</a>
+      </span></td>
+      </tr>
+      <tr>
+        <td class="first"></td>
+        <td class="last"></td>
+      </tr>
+      <tr>
+        <td class="first">
+        <p>
+          <strong>
+            <u>
+              <a href="http://h20331.www2.hp.com/hpsub/us/en/calculators/Calculator_Software.html">Calculadoras virtuales para dispositivos móviles y PC (EE.UU.)</a>
+            </u>
+          </strong>
+						<br>
+						<br>
+						<strong><u><a href="http://www8.hp.com/es/es/hp-information/resellers/calculators.html">Encuentre un distribuidor</a></u></strong>
+						<br>
+						<br>
+						<strong><u><a href="http://h30248.www3.hp.com/calcclub/">Club de calculadoras (EE.UU.)</a></u></strong>
+						<br></p>
+      </td>
+        <td class="last">
+        <p>
+          <strong>
+            <u>
+              <a href="http://www8.hp.com/es/es/products/calculators/product-detail.html?oid=5154837">Descripción del producto con tutorial interactivo</a>
+            </u>
+          </strong>
+						<br>
+Descubra los problemas de práctica simulados.
+<br>
+						<br>
+						<strong><u><a href="http://h41112.www4.hp.com/campaign/calculators/HP_Math_In_Motion.swf" target="_blank">Matemática para actividades en movimiento</a></u></strong>
+						<br>
+Resuelva ecuaciones cuadráticas para simulacros de lanzamientos de cohetes.</p>
+      </td>
+      </tr>
+      <tr>
+        <td class="first"></td>
+        <td class="last"></td>
+      </tr>
+    </table>
+  </div>
+</div>
+			</div>
+			<!-- END CONTENT AREA -->
+		</div>
+		<!-- END DIV BODY -->
+
+		<!-- BEGIN FOOTER -->
+		<div id="footer" class="footer">
+			<div class="footer_lang_container"><a name="skiptofooter" tabindex="0"><span class="screenReading">Fin contenido</span></a><div class="footer_lang_section hf_clf"><div class="cs-container "><div class="js_cselector cselector_wrapper"><a class="js_cselector_trigger cselector" rel="js_cselector_target" href="http://www8.hp.com/es/es/home.html" tabindex="0" title="Selector de país/región"><span class="countryRegionLabel">País/Región :&#160;&#160;</span><span class="screenReading js_screen_reading">&#160;</span><span class="flag">&#160;</span><span class="selectedCountry"><span class="screenReading">&#160;</span>España</span></a><div class="worldmap_wrapper"><div class="world_map js_cselector_target"><h4 class="screenReading">HP Worldwide</h4><div class="js_worldmap_wrapper"><div class="worldmap hf_clf"><div class="bottom_corner">&#160;</div><span class="screenReading">popUpSRBeginingLabelString</span><h2>Seleccione su país/región e idioma</h2><div class="country_holder"><span class="screenReading">Haga clic o utilice la tecla tabulador para seleccionar su país</span><ul><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_africa/en/home.html" name="tcm:0-132-1" title="Africa" lang="en" hreflang="en-emea_africa" tabindex="0">Africa</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_africa/fr/home.html" name="tcm:0-133-1" title="Afrique" lang="fr" hreflang="fr-emea_africa" tabindex="0">Afrique</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-134-1" title="Albania" lang="sq" hreflang="sq-al" tabindex="0">Albania</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/lamerica_nsc_cnt_amer/es/home.html" name="tcm:0-237-1" title="América Central" lang="es" hreflang="es-lamerica_nsc_cnt_amer" tabindex="0">América Central</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/ar/es/home.html" name="tcm:0-227-1" title="Argentina" lang="es" hreflang="es-ar" tabindex="0">Argentina</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-1743-1" title="Armenia" lang="hy" hreflang="hy-am" tabindex="0">Armenia</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/asia_pac/en/default.html" name="tcm:0-2756-1" title="Asia Pacific" lang="en" hreflang="en-asia_pac" tabindex="0">Asia Pacific</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/au/en/home.html" name="tcm:0-184-1" title="Australia" lang="en" hreflang="en-au" tabindex="0">Australia</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-136-1" title="Azərbaycan" lang="az" hreflang="az-az" tabindex="0">Azərbaycan</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/asia_pac/en/default.html" name="tcm:0-1560-1" title="Bangladesh" lang="bn" hreflang="bn-bd" tabindex="0">Bangladesh</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/be/nl/home.html" name="tcm:0-109-1" title="België" lang="nl" hreflang="nl-be" tabindex="0">België</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/be/fr/home.html" name="tcm:0-138-1" title="Belgique" lang="fr" hreflang="fr-be" tabindex="0">Belgique</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/bo/es/home.html" name="tcm:0-247-1" title="Bolivia" lang="es" hreflang="es-bo" tabindex="0">Bolivia</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-110-1" title="Bosna i Hercegovina" lang="bs" hreflang="bs-ba" tabindex="0">Bosna i Hercegovina</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/br/pt/home.html" name="tcm:0-226-1" title="Brasil" lang="pt" hreflang="pt-br" tabindex="0">Brasil</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/ca/en/home.html" name="tcm:0-223-1" title="Canada" lang="en" hreflang="en-ca" tabindex="0">Canada</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/ca/fr/home.html" name="tcm:0-224-1" title="Canada - Français" lang="fr" hreflang="fr-ca" tabindex="0">Canada - Français</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/lamerica_nsc_carib/en/home.html" name="tcm:0-246-1" title="Caribbean" lang="en" hreflang="en-lamerica_nsc_carib" tabindex="0">Caribbean</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/cz/cs/home.html" name="tcm:0-141-1" title="Česká republika" lang="cs" hreflang="cs-cz" tabindex="0">Česká republika</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/cl/es/home.html" name="tcm:0-122-1" title="Chile" lang="es" hreflang="es-cl" tabindex="0">Chile</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/co/es/home.html" name="tcm:0-123-1" title="Colombia" lang="es" hreflang="es-co" tabindex="0">Colombia</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/dk/da/home.html" name="tcm:0-142-1" title="Danmark" lang="da" hreflang="da-dk" tabindex="0">Danmark</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/de/de/home.html" name="tcm:0-144-1" title="Deutschland" lang="de" hreflang="de-de" tabindex="0">Deutschland</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/ec/es/home.html" name="tcm:0-229-1" title="Ecuador" lang="es" hreflang="es-ec" tabindex="0">Ecuador</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/ee/et/home.html" name="tcm:0-143-1" title="Eesti" lang="et" hreflang="et-ee" tabindex="0">Eesti</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/es/es/home.html" name="tcm:0-176-1" title="España" lang="es" hreflang="es-es" tabindex="0">España</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-2750-1" title="Europe, Middle East - Africa" lang="en" hreflang="en-emea_europe" tabindex="0">Europe, Middle East - Africa</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/fr/fr/home.html" name="tcm:0-113-1" title="France" lang="fr" hreflang="fr-fr" tabindex="0">France</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-1582-1" title="Georgia" lang="ge" hreflang="ge-ge" tabindex="0">Georgia</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/hk/en/home.html" name="tcm:0-187-1" title="Hong Kong SAR" lang="en" hreflang="en-hk" tabindex="0">Hong Kong SAR</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/hr/hr/home.html" name="tcm:0-111-1" title="Hrvatska" lang="hr" hreflang="hr-hr" tabindex="0">Hrvatska</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-1583-1" title="Iceland" lang="is" hreflang="is-is" tabindex="0">Iceland</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/in/en/home.html" name="tcm:0-188-1" title="India" lang="en" hreflang="en-in" tabindex="0">India</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/id/en/home.html" name="tcm:0-189-1" title="Indonesia" lang="en" hreflang="en-id" tabindex="0">Indonesia</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/ie/en/home.html" name="tcm:0-147-1" title="Ireland" lang="en" hreflang="en-ie" tabindex="0">Ireland</a></li><li data-region="0"><a class='link_metrics' href="http://www8.hp.com/il/he/home.html" name="tcm:0-148-1" title="Israel" lang="en" hreflang="en-il" tabindex="0">Israel</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/it/it/home.html" name="tcm:0-150-1" title="Italia" lang="it" hreflang="it-it" tabindex="0">Italia</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-1584-1" title="Kosovo" lang="sq" hreflang="sq-ks" tabindex="0">Kosovo</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/lv/lv/home.html" name="tcm:0-152-1" title="Latvija" lang="lv" hreflang="lv-lv" tabindex="0">Latvija</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/lt/lt/home.html" name="tcm:0-153-1" title="Lietuva" lang="lt" hreflang="lt-lt" tabindex="0">Lietuva</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/hu/hu/home.html" name="tcm:0-146-1" title="Magyarország" lang="hu" hreflang="hu-hu" tabindex="0">Magyarország</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/my/en/home.html" name="tcm:0-193-1" title="Malaysia" lang="en" hreflang="en-my" tabindex="0">Malaysia</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-155-1" title="Malta" lang="en" hreflang="en-mt" tabindex="0">Malta</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/mx/es/home.html" name="tcm:0-230-1" title="México" lang="es" hreflang="es-mx" tabindex="0">México</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_middle_east/en/home.html" name="tcm:0-163-1" title="Middle East" lang="en" hreflang="en-emea_middle_east" tabindex="0">Middle East</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-165-1" title="Moldova" lang="ro" hreflang="ro-md" tabindex="0">Moldova</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/nl/nl/home.html" name="tcm:0-167-1" title="Nederland" lang="nl" hreflang="nl-nl" tabindex="0">Nederland</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/nz/en/home.html" name="tcm:0-194-1" title="New Zealand" lang="en" hreflang="en-nz" tabindex="0">New Zealand</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/no/no/home.html" name="tcm:0-168-1" title="Norge" lang="no" hreflang="no-no" tabindex="0">Norge</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/at/de/home.html" name="tcm:0-135-1" title="Österreich" lang="de" hreflang="de-at" tabindex="0">Österreich</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/asia_pac/en/default.html" name="tcm:0-1571-1" title="Pakistan" lang="en" hreflang="en-pk" tabindex="0">Pakistan</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/py/es/home.html" name="tcm:0-240-1" title="Paraguay" lang="es" hreflang="es-py" tabindex="0">Paraguay</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/pe/es/home.html" name="tcm:0-241-1" title="Perú" lang="es" hreflang="es-pe" tabindex="0">Perú</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/ph/en/home.html" name="tcm:0-195-1" title="Philippines" lang="en" hreflang="en-ph" tabindex="0">Philippines</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/pl/pl/home.html" name="tcm:0-169-1" title="Polska" lang="pl" hreflang="pl-pl" tabindex="0">Polska</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/pt/pt/home.html" name="tcm:0-170-1" title="Portugal" lang="pt" hreflang="pt-pt" tabindex="0">Portugal</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/pr/es/home.html" name="tcm:0-242-1" title="Puerto Rico" lang="es" hreflang="es-pr" tabindex="0">Puerto Rico</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/ro/ro/home.html" name="tcm:0-171-1" title="România" lang="ro" hreflang="ro-ro" tabindex="0">România</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/sa/en/home.html" name="tcm:0-173-1" title="Saudi Arabia" lang="en" hreflang="en-sa" tabindex="0">Saudi Arabia</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/ch/de/home.html" name="tcm:0-179-1" title="Schweiz" lang="de" hreflang="de-ch" tabindex="0">Schweiz</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/sg/en/home.html" name="tcm:0-196-1" title="Singapore" lang="en" hreflang="en-sg" tabindex="0">Singapore</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/si/sl/home.html" name="tcm:0-174-1" title="Slovenija" lang="sl" hreflang="sl-si" tabindex="0">Slovenija</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/sk/sk/home.html" name="tcm:0-119-1" title="Slovensko" lang="sk" hreflang="sk-sk" tabindex="0">Slovensko</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/za/en/home.html" name="tcm:0-175-1" title="South Africa" lang="en" hreflang="en-za" tabindex="0">South Africa</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/rs/sr/home.html" name="tcm:0-118-1" title="Srbija" lang="sr" hreflang="sr-rs" tabindex="0">Srbija</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/asia_pac/en/default.html" name="tcm:0-1577-1" title="Sri Lanka" lang="si" hreflang="si-lk" tabindex="0">Sri Lanka</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/ch/fr/home.html" name="tcm:0-178-1" title="Suisse" lang="fr" hreflang="fr-ch" tabindex="0">Suisse</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/fi/fi/home.html" name="tcm:0-70-1" title="Suomi" lang="fi" hreflang="fi-fi" tabindex="0">Suomi</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/se/sv/home.html" name="tcm:0-177-1" title="Sverige" lang="sv" hreflang="sv-se" tabindex="0">Sverige</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/tr/tr/home.html" name="tcm:0-180-1" title="Türkiye" lang="tr" hreflang="tr-tr" tabindex="0">Türkiye</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-2550-1" title="Turkmenistan" lang="ru" hreflang="ru-tm" tabindex="0">Turkmenistan</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/uk/en/home.html" name="tcm:0-183-1" title="United Kingdom" lang="en" hreflang="en-uk" tabindex="0">United Kingdom</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/us/en/home.html" name="tcm:0-245-1" title="United States" lang="en" hreflang="en-us" tabindex="0">United States</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/uy/es/home.html" name="tcm:0-243-1" title="Uruguay" lang="es" hreflang="es-uy" tabindex="0">Uruguay</a></li><li data-region="1"><a class='link_metrics' href="https://www8.hp.com/ve/es/home.html" name="tcm:0-124-1" title="Venezuela" lang="es" hreflang="es-ve" tabindex="0">Venezuela</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/vn/en/home.html" name="tcm:0-121-1" title="Việt Nam" lang="en" hreflang="en-vn" tabindex="0">Việt Nam</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/gr/el/home.html" name="tcm:0-145-1" title="Ελλάδα" lang="el" hreflang="el-gr" tabindex="0">Ελλάδα</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/by/ru/home.html" name="tcm:0-137-1" title="Беларусь" lang="ru" hreflang="ru-by" tabindex="0">Беларусь</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/bg/bg/home.html" name="tcm:0-139-1" title="България" lang="bg" hreflang="bg-bg" tabindex="0">България</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/kz/ru/home.html" name="tcm:0-114-1" title="Казахстан" lang="ru" hreflang="ru-kz" tabindex="0">Казахстан</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_europe/en/default.html" name="tcm:0-154-1" title="Македонија" lang="mk" hreflang="mk-mk" tabindex="0">Македонија</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/ru/ru/home.html" name="tcm:0-172-1" title="Россия" lang="ru" hreflang="ru-ru" tabindex="0">Россия</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/ua/ru/home.html" name="tcm:0-181-1" title="Украина" lang="ru" hreflang="ru-ua" tabindex="0">Украина</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/il/he/home.html" name="tcm:0-149-1" title="ישראל" lang="he" hreflang="he-il" tabindex="0">ישראל</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/emea_middle_east/ar/home.html" name="tcm:0-162-1" title="الشرق الأوسط" lang="ar" hreflang="ar-emea_middle_east" tabindex="0">الشرق الأوسط</a></li><li data-region="0"><a class='link_metrics' href="https://www8.hp.com/sa/ar/home.html" name="tcm:0-1573-1" title="المملكة العربية السعودية" lang="ar" hreflang="ar-sa" tabindex="0">المملكة العربية السعودية</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/th/en/home.html" name="tcm:0-2356-1" title="ไทย" lang="th" hreflang="th-th" tabindex="0">ไทย</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/kr/ko/home.html" name="tcm:0-192-1" title="한국" lang="ko" hreflang="ko-kr" tabindex="0">한국</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/jp/ja/home.html" name="tcm:0-191-1" title="日本" lang="ja" hreflang="ja-jp" tabindex="0">日本</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/cn/zh/home.html" name="tcm:0-185-1" title="中华人民共和国" lang="zh" hreflang="zh-cn" tabindex="0">中华人民共和国</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/hk/zh/home.html" name="tcm:0-186-1" title="中國香港 - 繁體中文" lang="zh" hreflang="zh-hk" tabindex="0">中國香港 - 繁體中文</a></li><li data-region="2"><a class='link_metrics' href="https://www8.hp.com/tw/zh/home.html" name="tcm:0-71-1" title="臺灣 地區" lang="zh" hreflang="zh-tw" tabindex="0">臺灣 地區</a></li></ul><span class="screenReading">popUpSREndingLabelString</span></div><div class="country_holder_mobile"><ul><li><a class="cs_region js_trigger" href="javascript:void(0);" title="Europa, Medio Oriente y África" tabindex="0">Europa, Medio Oriente y África</a></li><li><a class="cs_region js_trigger" href="javascript:void(0);" title="Américas" tabindex="0">Américas</a></li><li><a class="cs_region js_trigger" href="javascript:void(0);" title="Asia y Oceanía" tabindex="0">Asia y Oceanía</a></li></ul></div><a href="javascript:void(0);" title="Cerrar" class="cselectorbtn" tabindex="903"><span class="screenReading hf_rlv">Cerrar Selector de país/región  Diálogo</span></a></div></div></div></div></div></div></div></div><div class="footer_container"><div class="site_links column_5">
+         <div class="site_links_container fstchild  "><a tabindex="0" class="js_site_links_trigger ul_site_link_header" href="javascript:void(0);"><span class="accordion-header">Acerca de nosotros</span><span class="accordion-icn">&#160;</span></a><ul class="ul_site_links js_site_links_target"><li class="first_li"><a name="2082817" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/hp-information/index.html">Acerca de nosotros</a><span><a name="2082817" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/hp-information/index.html">Acerca de nosotros</a></span></li><li><a name="2082822" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/contact-hp/contact.html">Contacte con HP</a></li><li><a name="2082818" tabindex="0" class="link_metrics" href="https://jobs.hp.com/en-us/">Vacantes</a></li><li><a name="2082819" tabindex="0" class="link_metrics" href="https://investor.hp.com/home/default.aspx">Relaciones con los inversores</a></li><li><a name="2117727" tabindex="0" class="link_metrics" href="https://www8.hp.com/us/en/hp-information/global-citizenship/index.html">Impacto sostenible</a></li><li><a name="2082821" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/hp-news/newsroom.html">Sala de prensa</a></li><li class="lstchild"><a name="2537592" tabindex="0" class="link_metrics" href="https://garage.ext.hp.com/us/en.html">El Garaje</a></li></ul></div> <div class="site_links_container   "><a tabindex="0" class="js_site_links_trigger ul_site_link_header" href="javascript:void(0);"><span class="accordion-header">C&#243;mo comprar</span><span class="accordion-icn">&#160;</span></a><ul class="ul_site_links js_site_links_target"><li class="first_li"><span class="column_no_link"><span>C&#243;mo comprar</span></span></li><li><a name="2082334" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/contact-hp/shopping.html">Llamar a un representante de HP</a></li><li><a name="2082333" tabindex="0" class="link_metrics" href="https://locator.hp.com/es/es/?ml___lang=es-ES%20(1)&amp;ml___region=ES">Buscar un reseller</a></li><li class="lstchild"><a name="2146558" tabindex="0" class="link_metrics" href="http://www.hp.com/es/promo">Promociones de HP</a></li></ul></div> <div class="site_links_container   "><a tabindex="0" class="js_site_links_trigger ul_site_link_header" href="javascript:void(0);"><span class="accordion-header">Soporte</span><span class="accordion-icn">&#160;</span></a><ul class="ul_site_links js_site_links_target"><li class="first_li"><a name="2082839" tabindex="0" class="link_metrics" href="https://support.hp.com/es-es/">Soporte</a><span><a name="2082839" tabindex="0" class="link_metrics" href="https://support.hp.com/es-es/">Soporte</a></span></li><li><a name="2082842" tabindex="0" class="link_metrics" href="http://support.hp.com/es-es/drivers">Descargar controladores</a></li><li><a name="2082849" tabindex="0" class="link_metrics" href="https://support.hp.com/es-es/">Soporte y resoluci&#243;n de problemas</a></li><li><a name="2157591" tabindex="0" class="link_metrics" href="http://h30467.www3.hp.com/hpes">Comunidad</a></li><li><a name="2082845" tabindex="0" class="link_metrics" href="https://register.hp.com/emea/flowPage/registration/index.do?execution=e1s1&amp;cc=es&amp;lang=es">Registrar el producto</a></li><li><a name="2082841" tabindex="0" class="link_metrics" href="https://h20212.www2.hp.com/Cso_Status/CsoStatus.aspx?lc=es&amp;cc=es">Comprobar el estado de la reparaci&#243;n</a></li><li class="lstchild"><a name="2122299" tabindex="0" target="_blank" class="link_metrics" href="https://hpsalescentral.com/#/training/training">Formaci&#243;n y certificaci&#243;n</a></li></ul></div> <div class="site_links_container   "><a tabindex="0" class="js_site_links_trigger ul_site_link_header" href="javascript:void(0);"><span class="accordion-header">HP Partners</span><span class="accordion-icn">&#160;</span></a><ul class="ul_site_links js_site_links_target"><li class="first_li"><span class="column_no_link"><span>HP Partners</span></span></li><li><a name="2110467" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/hp-information/hp-partner-first/overview.html">HP Partner First Program</a></li><li><a name="2122304" tabindex="0" class="link_metrics" href="https://partner.hp.com/login">Portal de partners</a></li><li class="lstchild"><a name="2336240" tabindex="0" class="link_metrics" href="https://developers.hp.com/">Desarrolladores</a></li></ul></div> <div class="site_links_container  lstchild "><a tabindex="0" class="js_site_links_trigger ul_site_link_header" href="javascript:void(0);"><span class="accordion-header">Siga conectado</span><span class="accordion-icn">&#160;</span></a><ul class="ul_site_links js_site_links_target"><li class="first_li lstchild"><span class="column_no_link"><span>Siga conectado</span></span></li><li class=" last"><ul class="ul_media_links"><li class="first_li  Facebook"><a name="557110" tabindex="0" target="_blank" class="icn_fcb" data-label="HP en Facebook" href="https://www.facebook.com/HPEspana?sk=wall"></a></li><li class="Instagram_new"><a name="2114295" tabindex="0" target="_blank" class="icn_inst" data-label="HP Instagram" href="https://www.instagram.com/hpespana/"></a></li><li class="YouTube"><a name="798961" tabindex="0" target="_blank" class="icn_ytb" data-label="HP en YouTube" href="http://www.youtube.com/user/hpespana?feature=results_main"></a></li><li class="Twitter"><a name="557112" tabindex="0" target="_blank" class="icn_twt" data-label="HP en Twitter" href="https://twitter.com/hpespana"></a></li><li class="lstchild LinkedIn"><a name="2086338" tabindex="0" target="_blank" class="icn_sm_lkn" data-label="LinkedIn HP" href="http://www.linkedin.com/company/hp-espa-a?trk=top_nav_home"></a></li></ul></li></ul></div>
+    </div><div class="footer_legal_block"><ul class="privacy_links"><li class="first_li"><a name="2082312" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/hp-information/recalls.html">Retirada de productos</a><span class="hf_separ">|</span></li><li><a name="2117732" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/hp-information/environment/product-recycling.html">Reciclaje de productos</a><span class="hf_separ">|</span></li><li><a name="2082323" tabindex="0" class="link_metrics" href="https://www8.hp.com/us/en/hp-information/accessibility-aging/index.html">Accesibilidad</a><span class="hf_separ">|</span></li><li><a name="2082313" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/sitemap.html">Mapa del sitio</a><span class="hf_separ">|</span></li><li><a name="2082311" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/privacy/privacy-central.html">Privacidad</a><span class="hf_separ">|</span></li><li><a name="2082308" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/privacy/use-of-cookies.html">Opciones de cookies y publicidad</a><span class="hf_separ">|</span></li><li><a name="2102833" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/personal-data-rights.html">Derechos sobre datos personales</a><span class="hf_separ">|</span></li><li><a name="2082315" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/terms-of-use.html">T&#233;rminos de uso</a><span class="hf_separ">|</span></li><li><a name="2101977" tabindex="0" class="link_metrics" href="http://support.hp.com/es-es/document/c03805198">Garant&#237;a legal del consumidor</a><span class="hf_separ">|</span></li><li class="lstchild"><a name="2082310" tabindex="0" class="link_metrics" href="https://www8.hp.com/es/es/privacy/limited_warranty.html">Declaraci&#243;n de garant&#237;a limitada</a></li></ul><div class="hf_bottom_links"><p class="copyright">&#169;  Copyright 2020 HP Development Company, L.P.</p><p class="mobile_view"></p></div></div></div><div id="ladybug"><div class="hp_employees_container"><a title="Informar de los problemas de contenido del producto" href="http://hpgcs.freshdesk.com/support/tickets/new" target="_blank" tabindex="0" name="1234A" class="link_metrics imgLink" onmouseover="self.status='http://hpgcs.freshdesk.com/support/tickets/new'" onmouseout="self.status=''"><img src="https://www8.hp.com/es/es/images/TLadybug_Ctcm1762687467_Ttcm176138591232_F.png" alt="emptyImg"/>
+          	  Informar de los problemas de contenido del producto
+              </a></div></div><!--Data Published 01/01/2020 03:37:37 PM, Template Published: UNKNOWN-->
+		</div>
+		<!-- END FOOTER -->
+		
+		<!-- BEGIN BIRDSEED -->
+		<div id="birdseed" class="birdseed">
+			
+		</div>
+		<!-- END BIRDSEED -->	
+	</div>
+	<!-- END CONTENT -->
+</div>
+<!-- END EVERYTHING -->
+
+	
+<!-- BEGIN BOTTOM JAVASCRIPT -->
+<!-- BEGIN This block will moved into the init in the loading queue -->
+
+		<script src="/es/es/scripts/framework/mootools/v-1-4/mootools-core.js" type="text/javascript"></script>
+		<script src="/es/es/scripts/framework/mootools/v-1-4/mootools-more.js" type="text/javascript"></script>
+
+	
+			
+		<script src="/es/es/scripts/utilities-hpe-v2.js" type="text/javascript"></script>
+		<script src="/es/es/scripts/products/products-utils-hpe.js" type="text/javascript"></script>
+		<script src="/es/es/scripts/products/products-gateway-init-hpe.js" type="text/javascript"></script>
+		<!-- HPI/Default JS/CSS -->
+	
+
+
+		<script type="text/javascript">
+			window.addEvent('load', function() {
+				HEWLETTPACKARD.loadScript("/es/es/scripts/swfobject.js", function() {
+				})
+			});
+			<!-- BEGIN BrightCove -->
+			window.addEvent('load', function() {
+				HEWLETTPACKARD.loadScript("http://admin.brightcove.com/js/BrightcoveExperiences.js", function() {
+					HEWLETTPACKARD.loadScript("http://admin.brightcove.com/js/APIModules_all.js", function() {
+					})
+				})
+			});
+			<!-- END BrightCove -->	
+		</script>
+
+<!-- BGIN CaaS Head Scripts -->
+	<script type="text/javascript" src="https://www8.hp.com/es/es/scripts/hpi/caas-hf-v4.0/hpi-hf-m.js?v=4.0.4" xml:space="preserve"></script><script type="text/javascript" src="https://www8.hp.com/es/es/scripts/hpi/caas-hf-v4.0/hpi-autocomplete-loader-store-m.js?v=4.0.4" xml:space="preserve"></script><!--Data Published 09/05/2019 06:46:14 PM, Template Published: UNKNOWN-->
+<!-- END CaaS Head Scripts -->
+
+<!-- BGIN CaaS Body Scripts -->
+<script type="text/javascript">
+            //<![CDATA[
+                window.SCREENREADING_LABELS = {
+                    'open_menu_prefix': "Abrir ",
+                    'open_menu_suffix': " Menú",
+                    'close_menu_prefix': "Cerrar ",
+                    'close_menu_suffix': " Menú",
+
+                    'opened_state_menu_prefix': "Menú ",
+                    'opened_state_menu_suffix': " está abierto",
+                    'closed_state_menu_prefix': "Menú ",
+                    'closed_state_menu_suffix': " está cerrado",
+
+                    'opened_state_submenu_suffix': "",
+                    'selected_country_state': " Selected ",
+
+                    'open_popup_prefix': "Abrir ",
+                    'open_popup_suffix': " Diálogo",
+                    'close_popup_prefix': "Cerrar ",
+                    'close_popup_suffix': " Diálogo",
+
+                    "expand_prefix": "Expandir ",
+                    "expand_suffix": "",
+                    "collapse_prefix": "Contraer",
+                    "collapse_suffix": "",
+                    "search_box_suggestion_title": "Utilice las teclas de dirección para seleccionar una sugerencia de búsqueda",
+                    "search_box_close_title": ""
+                };
+            	HP.hfInit({
+            		countrySelectorURL: "https://www8.hp.com/caas/header-footer/es/es/default/4.0.m/footer/country-selector?contentType=jsonp",
+	        		countryCode:		"es",
+	       			languageCode:		"es",
+	       			imageGridTopMenu:false,
+					autocompleteParams:	[{"autocompleteSSRequest":true,"autocompleteVersion":"2","callbackParam":"cb","type":"iap-fast","url":"https:\/\/iapproltautocm.austin.hp.com\/hp-iap-autocomplete\/search?companyCode=HPI"}]
+            	});
+            //]]>
+        </script><!--Data Published 09/05/2019 06:46:14 PM, Template Published: UNKNOWN-->
+<!-- END CaaS Body Scripts -->
+
+<!-- END BOTTOM JAVASCRIPT -->
+
+
+
+</body>
+<!-- END BODY -->
+</html>
